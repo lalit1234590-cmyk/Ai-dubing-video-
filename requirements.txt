@@ -1,0 +1,6 @@
+Flask
+faster-whisper
+deep-translator
+edge-tts
+Werkzeug
+gunicorn
